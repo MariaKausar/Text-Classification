@@ -16,5 +16,5 @@ The goal of the project is to classify tweets based on the mental health state o
 - Removal of noise (URLs, mentions, special characters, etc.)
 - Tokenization and stop-word removal
 
-# Dataset
+# 🧾 Dataset
 https://www.kaggle.com/datasets/infamouscoder/mental-health-social-media
